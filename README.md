@@ -1,6 +1,6 @@
 # Varun-Submission-MSR-RL-Open-Fest-2021
  
-I have modified the original .ipynb file two different exploration algorithms.
+I have modified the original .ipynb file to compare two different exploration algorithms.
 - epsilon-greedy with epsilon = 0.2 and
 - Random Network Distillation (RND).
 
